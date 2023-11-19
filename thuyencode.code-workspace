@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"markdownlint.config": {
+			"MD041": false,
+			"MD051": false,
+			"MD033": {
+				"allowed_elements": ["center", "span"]
+			}
+		}
+	}
+}
