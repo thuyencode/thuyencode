@@ -2,7 +2,7 @@
 
 [EN 🇬🇧](#-hi-im-thuyen-code) | [VI 🇻🇳](./README-VI.md)
 
-A passionate frontend developer from Vietnam 🇻🇳
+A passionate junior frontend developer from Vietnam 🇻🇳
 
 I’m currently learning web development, more specifically **frontend** with [**React**](https://react.dev) and [**Solid.js**](https://solidjs.com), **backend** with [**Node.js**](https://nodejs.org) and **fullstack** with [**Next.js**](https://nextjs.org).
 

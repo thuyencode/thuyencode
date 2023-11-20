@@ -2,7 +2,7 @@
 
 [Anh 🇬🇧](./README.md) | [Việt 🇻🇳](#-xin-chào-mình-là-thuyen-code)
 
-Lập trình viên frontend tâm huyết từ Việt Nam 🇻🇳
+Lập trình viên frontend tuy junior nhưng tâm huyết từ Việt Nam 🇻🇳
 
 Hiện tại đang học phát triển web, cụ thể hơn là **phát triển phần frontend** sử dụng [**React**](https://react.dev) và [**Solid.js**](https://solidjs.com), **phát triển phần backend** sử dụng [**Node.js**](https://nodejs.org) và **phát triển fullstack** sử dụng [**Next.js**](https://nextjs.org).
 
