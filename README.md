@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Thuyen Code
 
-[EN 🇬🇧](#-hi-im-thuyen-code) | [VI 🇻🇳](./README-VI.md)
+[EN 🇬🇧](#-hi-im-thuyen-code) | [VI 🇻🇳](./README.🇻🇳.md)
 
 A passionate junior frontend developer from Vietnam 🇻🇳
 
