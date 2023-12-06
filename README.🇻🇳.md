@@ -6,6 +6,12 @@ Lập trình viên frontend tuy junior nhưng tâm huyết từ Việt Nam 🇻�
 
 Hiện tại đang học phát triển web, cụ thể hơn là **phát triển phần frontend** sử dụng [**React**](https://react.dev) và [**Solid.js**](https://solidjs.com), **phát triển phần backend** sử dụng [**Node.js**](https://nodejs.org) và **phát triển fullstack** sử dụng [**Next.js**](https://nextjs.org).
 
+**Hồ sơ cá nhân trên các nền tảng học coding chất lượng nhất:**
+
+* [🏕️ FreeCodeCamp](https://www.freecodecamp.org/thuyencode)
+* [💪 Exercism](https://exercism.org/profiles/thuyencode)
+* ⚔️ *The Odin Project không hỗ trợ hồ sơ cá nhân công khai*
+
 ## 🧰 Bộ kỹ năng
 
 | [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,next,git,linux)](https://skillicons.dev) |

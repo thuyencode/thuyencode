@@ -6,6 +6,12 @@ A passionate junior frontend developer from Vietnam 🇻🇳
 
 I’m currently learning web development, more specifically **frontend** with [**React**](https://react.dev) and [**Solid.js**](https://solidjs.com), **backend** with [**Node.js**](https://nodejs.org) and **fullstack** with [**Next.js**](https://nextjs.org).
 
+**My profiles on the best free learning platforms:**
+
+* [🏕️ FreeCodeCamp](https://www.freecodecamp.org/thuyencode)
+* [💪 Exercism](https://exercism.org/profiles/thuyencode)
+* ⚔️ *The Odin Project doesn't support public profile though*
+
 ## 🧰 My skill sets
 
 | [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,next,git,linux)](https://skillicons.dev) |
