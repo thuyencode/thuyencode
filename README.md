@@ -26,4 +26,6 @@ I’m currently learning web development, more specifically **frontend** with [*
 
 |        ![thuyencode's Stats](https://github-readme-stats.vercel.app/api?username=thuyencode&theme=blueberry&show_icons=true&hide_border=true&count_private=true)         |  ![thuyencode's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thuyencode&theme=blueberry&hide_border=true)  |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
-| ![thuyencode's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thuyencode&theme=blueberry&show_icons=true&hide_border=true&layout=compact) | You're the person number ![thuyencode's visitor counts](https://profile-counter.glitch.me/thuyencode/count.svg) to read this |
+| ![thuyencode's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thuyencode&theme=blueberry&show_icons=true&hide_border=true&layout=compact) | |
+
+<!-- You're the person number ![thuyencode's visitor counts](https://profile-counter.glitch.me/thuyencode/count.svg) to read this | -->
