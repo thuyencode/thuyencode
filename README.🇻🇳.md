@@ -8,15 +8,15 @@ Hiện tại đang học phát triển web, cụ thể hơn là **phát triển 
 
 **Hồ sơ cá nhân trên các nền tảng học coding chất lượng nhất:**
 
-* [🏕️ FreeCodeCamp](https://www.freecodecamp.org/thuyencode)
-* [💪 Exercism](https://exercism.org/profiles/thuyencode)
-* ⚔️ *The Odin Project không hỗ trợ hồ sơ cá nhân công khai*
+- [🏕️ FreeCodeCamp](https://www.freecodecamp.org/thuyencode)
+- [💪 Exercism](https://exercism.org/profiles/thuyencode)
+- ⚔️ _The Odin Project không hỗ trợ hồ sơ cá nhân công khai_
 
 ## 🧰 Bộ kỹ năng
 
-| [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,next,git,linux)](https://skillicons.dev) |
-| :-----------------------------------------------------------------------------------------------------------------: |
-|                                                   Hội đại gia 😎                                                    |
+| [![My Skills](https://skillicons.dev/icons?i=linux,git,rust,js,ts,html,css,tailwind,react,next&perline=5)](https://skillicons.dev) |
+| :--------------------------------------------------------------------------------------------------------------------------------: |
+|                                                           Hội đại gia 😎                                                           |
 
 | [![Incoming](https://skillicons.dev/icons?i=solidjs,astro,remix)](https://skillicons.dev) |
 | :---------------------------------------------------------------------------------------: |
@@ -26,6 +26,6 @@ Hiện tại đang học phát triển web, cụ thể hơn là **phát triển 
 
 |        ![thuyencode's Stats](https://github-readme-stats.vercel.app/api?username=thuyencode&theme=blueberry&show_icons=true&hide_border=true&count_private=true&locale=vi)         | ![thuyencode's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thuyencode&theme=blueberry&hide_border=true&locale=vi) |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
-| ![thuyencode's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thuyencode&theme=blueberry&show_icons=true&hide_border=true&layout=compact&locale=vi) | |
+| ![thuyencode's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thuyencode&theme=blueberry&show_icons=true&hide_border=true&layout=compact&locale=vi) |                                                                                                                                      |
 
 <!-- Bạn là vị khách thứ ![thuyencode's visitor counts](https://profile-counter.glitch.me/thuyencode/count.svg)              | -->
