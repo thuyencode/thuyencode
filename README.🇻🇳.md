@@ -14,18 +14,17 @@ Hiện tại đang học phát triển web, cụ thể hơn là **phát triển 
 
 ## 🧰 Bộ kỹ năng
 
-| [![My Skills](https://skillicons.dev/icons?i=linux,git,rust,js,ts,html,css,tailwind,react,next&perline=5)](https://skillicons.dev) |
-| :--------------------------------------------------------------------------------------------------------------------------------: |
-|                                                           Hội đại gia 😎                                                           |
+| [![My Skills](https://skillicons.dev/icons?i=linux,git,bash,rust,java,js,ts,html,css,tailwind,react,solidjs,next&perline=7)](https://skillicons.dev) |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                    Hội đại gia 😎                                                                    |
 
-| [![Incoming](https://skillicons.dev/icons?i=solidjs,astro,remix)](https://skillicons.dev) |
-| :---------------------------------------------------------------------------------------: |
-|                                      Sắp nhập hội...                                      |
+| [![Incoming](https://skillicons.dev/icons?i=astro,remix)](https://skillicons.dev) |
+| :-------------------------------------------------------------------------------: |
+|                                  Sắp nhập hội...                                  |
 
 ## ⚡ Thông tin thú vị
 
-|        ![thuyencode's Stats](https://github-readme-stats.vercel.app/api?username=thuyencode&theme=blueberry&show_icons=true&hide_border=true&count_private=true&locale=vi)         | ![thuyencode's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thuyencode&theme=blueberry&hide_border=true&locale=vi) |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
-| ![thuyencode's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thuyencode&theme=blueberry&show_icons=true&hide_border=true&layout=compact&locale=vi) |                                                                                                                                      |
+| ![thuyencode's Stats](https://github-readme-stats.vercel.app/api?username=thuyencode&theme=blueberry&show_icons=true&hide_border=true&count_private=true&locale=vi) | ![thuyencode's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thuyencode&theme=blueberry&hide_border=true&locale=vi) |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
 
-<!-- Bạn là vị khách thứ ![thuyencode's visitor counts](https://profile-counter.glitch.me/thuyencode/count.svg)              | -->
+<!-- | ![thuyencode's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thuyencode&theme=blueberry&show_icons=true&hide_border=true&layout=compact&locale=vi) |              Bạn là vị khách thứ ![thuyencode's visitor counts](https://profile-counter.glitch.me/thuyencode/count.svg)              | -->

@@ -14,18 +14,17 @@ I’m currently learning web development, more specifically **frontend** with [*
 
 ## 🧰 My skill sets
 
-| [![My Skills](https://skillicons.dev/icons?i=linux,git,rust,js,ts,html,css,tailwind,react,next&perline=5)](https://skillicons.dev) |
-| :--------------------------------------------------------------------------------------------------------------------------------: |
-|                                                     Aren't these guys cool? 😎                                                     |
+| [![My Skills](https://skillicons.dev/icons?i=linux,git,bash,rust,java,js,ts,html,css,tailwind,react,solidjs,next&perline=7)](https://skillicons.dev) |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                              Aren't these guys cool? 😎                                                              |
 
-| [![Incoming](https://skillicons.dev/icons?i=solidjs,astro,remix)](https://skillicons.dev) |
-| :---------------------------------------------------------------------------------------: |
-|                                Gonna join the club soon...                                |
+| [![Incoming](https://skillicons.dev/icons?i=astro,remix)](https://skillicons.dev) |
+| :-------------------------------------------------------------------------------: |
+|                            Gonna join the club soon...                            |
 
-## ⚡ Fun fact
+## ⚡ Fun facts
 
-|        ![thuyencode's Stats](https://github-readme-stats.vercel.app/api?username=thuyencode&theme=blueberry&show_icons=true&hide_border=true&count_private=true)         | ![thuyencode's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thuyencode&theme=blueberry&hide_border=true) |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
-| ![thuyencode's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thuyencode&theme=blueberry&show_icons=true&hide_border=true&layout=compact) |                                                                                                                            |
+| ![thuyencode's Stats](https://github-readme-stats.vercel.app/api?username=thuyencode&theme=blueberry&show_icons=true&hide_border=true&count_private=true) | ![thuyencode's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thuyencode&theme=blueberry&hide_border=true) |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 
-<!-- You're the person number ![thuyencode's visitor counts](https://profile-counter.glitch.me/thuyencode/count.svg) to read this | -->
+<!-- | ![thuyencode's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thuyencode&theme=blueberry&show_icons=true&hide_border=true&layout=compact) | You're the person number ![thuyencode's visitor counts](https://profile-counter.glitch.me/thuyencode/count.svg) to read this | -->
