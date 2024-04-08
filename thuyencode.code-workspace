@@ -1,12 +1,18 @@
 {
-	"folders": [
-		{
-			"path": "."
-		}
-	],
-	"settings": {
-		"markdownlint.config": {
-			"MD025": false
-		}
-	}
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "markdownlint.config": {
+      "MD025": false
+    }
+  },
+  "extensions": {
+    "recommendations": [
+      "davidanson.vscode-markdownlint",
+      "bierner.github-markdown-preview"
+    ]
+  }
 }
