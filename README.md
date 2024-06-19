@@ -14,13 +14,13 @@ I’m currently learning web development, more specifically **frontend** with [*
 
 ## 🧰 My skill sets
 
-| [![My Skills](https://skillicons.dev/icons?i=linux,git,bash,rust,java,js,ts,html,css,tailwind,react,solidjs,next&perline=7)](https://skillicons.dev) |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                              Aren't these guys cool? 😎                                                              |
+| [![My Skills](https://skillicons.dev/icons?i=linux,git,bash,rust,java,js,ts,html,css,tailwind,react,solidjs&perline=6)](https://skillicons.dev) |
+| :---------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                           Aren't these guys cool? 😎                                                            |
 
-| [![Incoming](https://skillicons.dev/icons?i=astro,remix)](https://skillicons.dev) |
-| :-------------------------------------------------------------------------------: |
-|                            Gonna join the club soon...                            |
+| [![Incoming](https://skillicons.dev/icons?i=nodejs,express,nextjs,laravel)](https://skillicons.dev) |
+| :-------------------------------------------------------------------------------------------------: |
+|                                     Gonna join the club soon...                                     |
 
 ## ⚡ Fun facts
 
