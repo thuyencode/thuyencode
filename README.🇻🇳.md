@@ -14,9 +14,9 @@ Hiện tại đang học phát triển web, cụ thể hơn là **phát triển 
 
 ## 🧰 Bộ kỹ năng
 
-| [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,git,bash,java,js,ts,html,css,tailwind,react,solidjs,reactquery&perline=6)](https://skillicons.dev) |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                            Hội đại gia 😎                                                                            |
+| [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,git,bash,java,js,ts,html,css,tailwind,react,solidjs,reactquery,spring&perline=7)](https://skillicons.dev) |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                               Hội đại gia 😎                                                                                |
 
 | [![Incoming](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,nextjs,elysia)](https://skillicons.dev) |
 | :---------------------------------------------------------------------------------------------------------------: |
