@@ -14,13 +14,13 @@ I’m currently learning web development, more specifically **frontend** with [*
 
 ## 🧰 My skill sets
 
-| [![My Skills](https://skillicons.dev/icons?i=linux,git,bash,java,js,ts,html,css,tailwind,react,solidjs&perline=6)](https://skillicons.dev) |
-| :----------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                         Aren't these guys cool? 😎                                                         |
+| [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,git,bash,java,js,ts,html,css,tailwind,react,solidjs,reactquery&perline=6)](https://skillicons.dev) |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                      Aren't these guys cool? 😎                                                                      |
 
-| [![Incoming](https://skillicons.dev/icons?i=nodejs,express,nextjs,elysia)](https://skillicons.dev) |
-| :------------------------------------------------------------------------------------------------: |
-|                                    Gonna join the club soon...                                     |
+| [![Incoming](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,nextjs,elysia)](https://skillicons.dev) |
+| :---------------------------------------------------------------------------------------------------------------: |
+|                                            Gonna join the club soon...                                            |
 
 ## ⚡ Fun facts
 
