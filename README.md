@@ -14,9 +14,9 @@ I’m currently learning web development, more specifically **frontend** with [*
 
 ## 🧰 My skill sets
 
-| [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,git,bash,java,js,ts,html,css,tailwind,react,solidjs,reactquery,spring,nodejs,express&perline=8)](https://github.com/LelouchFR/skill-icons) |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                          Aren't these guys cool? 😎                                                                                          |
+| [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,git,bash,java,js,ts,html,css,tailwind,react,solidjs,reactquery,nodejs,express&perline=7)](https://github.com/LelouchFR/skill-icons) |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                      Aren't these guys cool? 😎                                                                                       |
 
 | [![Incoming](https://go-skill-icons.vercel.app/api/icons?i=nextjs,elysia)](https://github.com/LelouchFR/skill-icons) |
 | :------------------------------------------------------------------------------------------------------------------: |
