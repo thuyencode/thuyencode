@@ -2,6 +2,8 @@
 
 [Anh 🇬🇧](./README.md) | [Việt 🇻🇳](#-xin-chào-mình-là-thuyen-code)
 
+> ⚠️ **Lưu ý:** Mình đã chuyển sang dùng [**Codeberg**](https://codeberg.org/thuyencode/). Nhưng mọi người vẫn có thể mở issues trên GitHub.
+
 Lập trình viên junior fullstack nhưng tâm huyết từ Việt Nam 🇻🇳
 
 Hiện tại đang học phát triển web, cụ thể hơn là **phát triển phần frontend** sử dụng [**React**](https://react.dev) và [**Solid.js**](https://solidjs.com), **phát triển phần backend** sử dụng [**Express.js**](https://expressjs.com/) và **phát triển fullstack** sử dụng [**Next.js**](https://nextjs.org).

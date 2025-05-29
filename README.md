@@ -2,6 +2,8 @@
 
 [EN 🇬🇧](#-hi-im-thuyen-code) | [VI 🇻🇳](./README.🇻🇳.md)
 
+> ⚠️ **Note:** Recently I've migrated to [**Codeberg**](https://codeberg.org/thuyencode/). But you can still open issues here.
+
 A passionate junior fullstack developer from Vietnam 🇻🇳
 
 I’m currently learning web development, more specifically **frontend** with [**React**](https://react.dev) and [**Solid.js**](https://solidjs.com), **backend** with [**Express.js**](https://expressjs.com/) and **fullstack** with [**Next.js**](https://nextjs.org).
