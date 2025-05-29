@@ -2,9 +2,9 @@
 
 [Anh 🇬🇧](./README.md) | [Việt 🇻🇳](#-xin-chào-mình-là-thuyen-code)
 
-Lập trình viên frontend tuy junior nhưng tâm huyết từ Việt Nam 🇻🇳
+Lập trình viên junior fullstack nhưng tâm huyết từ Việt Nam 🇻🇳
 
-Hiện tại đang học phát triển web, cụ thể hơn là **phát triển phần frontend** sử dụng [**React**](https://react.dev) và [**Solid.js**](https://solidjs.com), **phát triển phần backend** sử dụng [**Node.js**](https://nodejs.org) và **phát triển fullstack** sử dụng [**Next.js**](https://nextjs.org).
+Hiện tại đang học phát triển web, cụ thể hơn là **phát triển phần frontend** sử dụng [**React**](https://react.dev) và [**Solid.js**](https://solidjs.com), **phát triển phần backend** sử dụng [**Express.js**](https://expressjs.com/) và **phát triển fullstack** sử dụng [**Next.js**](https://nextjs.org).
 
 **Hồ sơ cá nhân trên các nền tảng học coding chất lượng nhất:**
 
@@ -14,9 +14,9 @@ Hiện tại đang học phát triển web, cụ thể hơn là **phát triển 
 
 ## 🧰 Bộ kỹ năng
 
-| [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,git,solidity,js,ts,html,css,tailwind,react,solidjs,reactquery,nodejs,express&perline=7)](https://github.com/LelouchFR/skill-icons) |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                            Hội đại gia 😎                                                                                            |
+| [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,git,solidity,js,ts,html,css,tailwind,react,solidjs,reactquery,express&perline=6)](https://github.com/LelouchFR/skill-icons) |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                        Hội đại gia 😎                                                                                         |
 
 | [![Incoming](https://go-skill-icons.vercel.app/api/icons?i=nextjs,elysia)](https://github.com/LelouchFR/skill-icons) |
 | :------------------------------------------------------------------------------------------------------------------: |

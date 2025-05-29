@@ -2,9 +2,9 @@
 
 [EN 🇬🇧](#-hi-im-thuyen-code) | [VI 🇻🇳](./README.🇻🇳.md)
 
-A passionate junior frontend developer from Vietnam 🇻🇳
+A passionate junior fullstack developer from Vietnam 🇻🇳
 
-I’m currently learning web development, more specifically **frontend** with [**React**](https://react.dev) and [**Solid.js**](https://solidjs.com), **backend** with [**Node.js**](https://nodejs.org) and **fullstack** with [**Next.js**](https://nextjs.org).
+I’m currently learning web development, more specifically **frontend** with [**React**](https://react.dev) and [**Solid.js**](https://solidjs.com), **backend** with [**Express.js**](https://expressjs.com/) and **fullstack** with [**Next.js**](https://nextjs.org).
 
 **My profiles on the best free learning platforms:**
 
@@ -14,9 +14,9 @@ I’m currently learning web development, more specifically **frontend** with [*
 
 ## 🧰 My skill sets
 
-| [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,git,solidity,js,ts,html,css,tailwind,react,solidjs,reactquery,nodejs,express&perline=7)](https://github.com/LelouchFR/skill-icons) |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                      Aren't these guys cool? 😎                                                                                      |
+| [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,git,solidity,js,ts,html,css,tailwind,react,solidjs,reactquery,express&perline=6)](https://github.com/LelouchFR/skill-icons) |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                  Aren't these guys cool? 😎                                                                                   |
 
 | [![Incoming](https://go-skill-icons.vercel.app/api/icons?i=nextjs,elysia)](https://github.com/LelouchFR/skill-icons) |
 | :------------------------------------------------------------------------------------------------------------------: |
