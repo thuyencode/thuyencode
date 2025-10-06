@@ -6,7 +6,7 @@
 
 Lập trình viên junior fullstack nhưng tâm huyết từ Việt Nam 🇻🇳
 
-Hiện tại đang học phát triển web, cụ thể hơn là **phát triển phần frontend** sử dụng [**React**](https://react.dev) và [**Solid.js**](https://solidjs.com), **phát triển phần backend** sử dụng [**Express.js**](https://expressjs.com/) và **phát triển fullstack** sử dụng [**Next.js**](https://nextjs.org).
+Hiện tại đang học phát triển web, cụ thể hơn là **phát triển phần frontend** sử dụng [**React**](https://react.dev) và [**Solid.js**](https://solidjs.com), **phát triển phần backend** sử dụng [**Express.js**](https://expressjs.com/) và **phát triển fullstack** sử dụng ngôn ngữ TypeScript.
 
 **Hồ sơ cá nhân trên các nền tảng học coding chất lượng nhất:**
 
