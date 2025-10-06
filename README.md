@@ -20,9 +20,9 @@ I’m currently learning web development, more specifically **frontend** with [*
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                  Aren't these guys cool? 😎                                                                                  |
 
-| [![Incoming](https://go-skill-icons.vercel.app/api/icons?i=elysia)](https://github.com/LelouchFR/skill-icons) ![React Router](https://reactrouter.com/splash/v7-badge-2.svg) |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                         Gonna join the club soon...                                                                          |
+| [![Incoming](https://go-skill-icons.vercel.app/api/icons?i=elysia,reactrouter,godot,vala,c)] |
+| :------------------------------------------------------------------------------------------: |
+|                                 Gonna join the club soon...                                  |
 
 ## ⚡ Fun facts
 
