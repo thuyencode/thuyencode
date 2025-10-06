@@ -6,7 +6,7 @@
 
 A passionate junior fullstack developer from Vietnam 🇻🇳
 
-I’m currently learning web development, more specifically **frontend** with [**React**](https://react.dev) and [**Solid.js**](https://solidjs.com), **backend** with [**Express.js**](https://expressjs.com/) and **fullstack** with [**Next.js**](https://nextjs.org).
+I’m currently learning web development, more specifically **frontend** with [**React**](https://react.dev) and [**Solid.js**](https://solidjs.com), **backend** with [**Express.js**](https://expressjs.com/) and **fullstack** TypeScript.
 
 **My profiles on the best free learning platforms:**
 
@@ -16,13 +16,13 @@ I’m currently learning web development, more specifically **frontend** with [*
 
 ## 🧰 My skill sets
 
-| [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,git,solidity,js,ts,html,css,tailwind,react,solidjs,reactquery,express&perline=6)](https://github.com/LelouchFR/skill-icons) |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                  Aren't these guys cool? 😎                                                                                   |
+| [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,git,js,ts,html,css,tailwind,react,solidjs,reactquery,express,drizzle&perline=6)](https://github.com/LelouchFR/skill-icons) |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                  Aren't these guys cool? 😎                                                                                  |
 
-| [![Incoming](https://go-skill-icons.vercel.app/api/icons?i=nextjs,elysia)](https://github.com/LelouchFR/skill-icons) |
-| :------------------------------------------------------------------------------------------------------------------: |
-|                                             Gonna join the club soon...                                              |
+| [![Incoming](https://go-skill-icons.vercel.app/api/icons?i=elysia)](https://github.com/LelouchFR/skill-icons) ![React Router](https://reactrouter.com/splash/v7-badge-2.svg) |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                         Gonna join the club soon...                                                                          |
 
 ## ⚡ Fun facts
 
